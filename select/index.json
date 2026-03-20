@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Balls Out",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-03-20T16:01:10.062453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/01_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/02_Balls_Out_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Balls Out - Album Version (Edited)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/03_Balls_Out_-_Album_Version_(Edited)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Balls Out (Album Version (Edited))",
+      "artist": "The Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/04_Balls_Out_(Album_Version_(Edited))_The_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Balls Out [Explicit]",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/05_Balls_Out_[Explicit]_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/06_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BALLS OUT FREESTYLE",
+      "artist": "MC Virgins",
+      "has_synced": false,
+      "path": "select/07_BALLS_OUT_FREESTYLE_MC_Virgins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Balls Out (Album Version)",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/08_Balls_Out_(Album_Version)_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Balls Out (Album Version Edited)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/09_Balls_Out_(Album_Version_Edited)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "¥ellow Bucks",
+      "has_synced": true,
+      "path": "select/10_Balls_Out_¥ellow_Bucks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/11_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "02 Balls Out",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/12_02_Balls_Out_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/13_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Balls Out (feat. MIYACHI & Shurkn Pap)",
+      "artist": "¥ellow Bucks",
+      "has_synced": true,
+      "path": "select/14_Balls_Out_(feat._MIYACHI_&_Shurkn_Pap)_¥ellow_Bucks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Great Balls Of Fire - Live",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": true,
+      "path": "select/15_Great_Balls_Of_Fire_-_Live_Jerry_Lee_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Great Balls Of Fire (1964 Version)",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": true,
+      "path": "select/16_Great_Balls_Of_Fire_(1964_Version)_Jerry_Lee_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dirty Balls",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/17_Dirty_Balls_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dirty Balls (karaoke mix)",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/18_Dirty_Balls_(karaoke_mix)_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Great Balls of Fire",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/19_Great_Balls_of_Fire_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "ball's gonna keep on rollin'",
+      "artist": "Pizzagirl",
+      "has_synced": true,
+      "path": "select/20_ball's_gonna_keep_on_rollin'_Pizzagirl.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Balls",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/21_Balls_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Balls To The Wall",
+      "artist": "Accept",
+      "has_synced": false,
+      "path": "select/22_Balls_To_The_Wall_Accept.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Balls To The Wall",
+      "artist": "U.D.O.",
+      "has_synced": false,
+      "path": "select/23_Balls_To_The_Wall_U.D.O..txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Balls To The Wall",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/24_Balls_To_The_Wall_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Balls To The Wall",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/25_Balls_To_The_Wall_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Balls To The Wall",
+      "artist": "Benedictum",
+      "has_synced": false,
+      "path": "select/26_Balls_To_The_Wall_Benedictum.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Desperate Balls",
+      "artist": "U.D.O.",
+      "has_synced": false,
+      "path": "select/27_Desperate_Balls_U.D.O..txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "You Bring the Cannon, We'll Bring the Balls",
+      "artist": "Swashbuckle",
+      "has_synced": false,
+      "path": "select/28_You_Bring_the_Cannon,_We'll_Bring_the_Balls_Swashbuckle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Balls Out",
+      "artist": "¥ellow Bucks, MIYACHI, Shurkn Pap",
+      "has_synced": false,
+      "path": "select/pl_01_Balls_Out_¥ellow_Bucks,_MIYACHI,_Shurkn_Pap.txt"
+    }
+  ]
+}
